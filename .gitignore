@@ -1,0 +1,65 @@
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+.vscode/
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/launch.json
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+.venv/
+venv/
+env/
+
+# Packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+*.egg-info/
+*.egg
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+data/
+datasets/
+cache/
+checkpoints/
+runs/
+
+
+# *.h5
+# *.pt
+# *.pth
+# *.joblib
+# *.pickle
+# *.pkl
+
+
+*.sqlite
+*.db
+
+
+lab_1/
+Lab_2/assignments.ipynb
+Lab_2/pretrained_resnet.py
+
